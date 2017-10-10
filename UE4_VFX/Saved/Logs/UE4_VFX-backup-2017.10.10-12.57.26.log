@@ -1,0 +1,1210 @@
+﻿Log file open, 10/09/17 18:42:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UE4_VFX
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(555499928) SRandInit(555499928).
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.257012
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Display: Disabled plugin 'HoudiniEngine', continuing.
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.10-00.42.01:552][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.10-00.42.01:552][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.10-00.42.01:584][  0]LogInit: Computer: NOITS-TOWER
+[2017.10.10-00.42.01:584][  0]LogInit: User: Nate
+[2017.10.10-00.42.01:584][  0]LogInit: CPU Page size=4096, Cores=6
+[2017.10.10-00.42.01:584][  0]LogInit: High frequency timer resolution =3.509027 MHz
+[2017.10.10-00.42.01:584][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.10.10-00.42.01:584][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.10-00.42.01:584][  0]LogMemory: Process Physical Memory: 284.32 MB used, 284.32 MB peak
+[2017.10.10-00.42.01:584][  0]LogMemory: Process Virtual Memory: 283.38 MB used, 283.38 MB peak
+[2017.10.10-00.42.01:584][  0]LogMemory: Physical Memory: 6531.04 MB used,  9789.30 MB free, 16320.34 MB total
+[2017.10.10-00.42.01:584][  0]LogMemory: Virtual Memory: 717.05 MB used,  9789.30 MB free, 134217728.00 MB total
+[2017.10.10-00.42.01:927][  0]LogInit: Using OS detected language (en-US).
+[2017.10.10-00.42.01:927][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.10-00.42.01:986][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.10-00.42.04:821][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.10-00.42.04:863][  0]LogD3D11RHI:    0. 'Radeon (TM) RX 480 Graphics' (Feature Level 11_0)
+[2017.10.10-00.42.04:864][  0]LogD3D11RHI:       8139/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.10.10-00.42.04:865][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.10-00.42.04:865][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.10-00.42.04:865][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.10-00.42.04:876][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.10-00.42.04:876][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2017.10.10-00.42.04:876][  0]LogWindows: EnumDisplayDevices:
+[2017.10.10-00.42.04:876][  0]LogWindows:    0. 'Radeon (TM) RX 480 Graphics' (P:1 D:1)
+[2017.10.10-00.42.04:877][  0]LogWindows:    1. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.10.10-00.42.04:877][  0]LogWindows:    2. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.10.10-00.42.04:877][  0]LogWindows:    3. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.10.10-00.42.04:877][  0]LogWindows:    4. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.10.10-00.42.04:877][  0]LogWindows:    5. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.10.10-00.42.04:877][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2017.10.10-00.42.04:877][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) RX 480 Graphics
+[2017.10.10-00.42.04:877][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7.2 (internal:22.19.662.4, unified:22.19.662.4)
+[2017.10.10-00.42.04:877][  0]LogD3D11RHI:      Driver Date: 7-20-2017
+[2017.10.10-00.42.04:877][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.10-00.42.04:912][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.10-00.42.04:923][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2017.10.10-00.42.04:924][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../VFX.Nate.git/trunk/UE4_VFX/Intermediate/Shaders/WorkingDirectory/16848/).
+[2017.10.10-00.42.04:924][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nate/AppData/Local/Temp/UnrealShaderWorkingDir/AF26B2FF465EEAD82AF97FAB9D1DC136/'.
+[2017.10.10-00.42.04:924][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.10-00.42.06:851][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.10-00.42.06:906][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.10-00.42.06:967][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.10-00.42.07:026][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.10-00.42.07:092][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.10-00.42.07:153][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.10-00.42.07:215][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.10-00.42.07:275][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.10-00.42.07:326][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.10-00.42.07:386][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.10-00.42.07:440][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.10-00.42.07:496][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.10-00.42.07:552][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.10-00.42.07:614][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.10-00.42.07:674][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.10-00.42.07:793][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.10-00.42.07:793][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.10-00.42.07:838][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.10-00.42.07:941][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.10-00.42.07:975][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.10-00.42.08:032][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.10-00.42.08:086][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.10-00.42.08:139][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.10-00.42.08:197][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.10-00.42.08:197][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.10-00.42.08:790][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.10-00.42.08:910][  0]LogDerivedDataCache: Loaded boot cache 0.12s 93MB C:/Users/Nate/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.10-00.42.08:910][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nate/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.10-00.42.08:910][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../VFX.Nate.git/trunk/UE4_VFX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.10-00.42.08:910][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.10-00.42.08:910][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../VFX.Nate.git/trunk/UE4_VFX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.10-00.42.08:911][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.10-00.42.08:933][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.10-00.42.08:946][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.10-00.42.08:957][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.10-00.42.08:957][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.10-00.42.08:971][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.10-00.42.08:972][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.10-00.42.09:390][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2017.10.10-00.42.09:524][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.10-00.42.10:158][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.10-00.42.10:204][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.10-00.42.10:204][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.10-00.42.10:204][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.10-00.42.10:204][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.10-00.42.10:204][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.10-00.42.10:231][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.10-00.42.10:977][  0]LogNetVersion: UE4_VFX , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1888030093)
+[2017.10.10-00.42.11:427][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.070504 seconds
+[2017.10.10-00.42.11:433][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.10-00.42.11:433][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.10.10-00.42.11:433][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.10-00.42.11:501][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.10-00.42.15:851][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.10-00.42.15:894][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.10-00.42.16:680][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.10-00.42.17:200][  0]SourceControl: Source control is disabled
+[2017.10.10-00.42.17:200][  0]SourceControl: Source control is disabled
+[2017.10.10-00.42.17:256][  0]SourceControl: Source control is disabled
+[2017.10.10-00.42.17:310][  0]SourceControl: Source control is disabled
+[2017.10.10-00.42.17:958][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.10-00.42.18:229][  0]LogOcInput: OculusInput pre-init called
+[2017.10.10-00.42.18:514][  0]LogEngine: Initializing Engine...
+[2017.10.10-00.42.18:517][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.10-00.42.18:922][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.10-00.42.18:922][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.10-00.42.19:053][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.10-00.42.19:061][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-00.42.19:077][  0]LogInit: FAudioDevice initialized.
+[2017.10.10-00.42.19:200][  0]LogDerivedDataCache: Saved boot cache 0.12s 93MB C:/Users/Nate/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.10-00.42.19:224][  0]LogInit: Texture streaming: Enabled
+[2017.10.10-00.42.19:360][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.10-00.42.19:597][  0]LogInit: Transaction tracking system initialized
+[2017.10.10-00.42.19:947][  0]BlueprintLog: New page: Editor Load
+[2017.10.10-00.42.20:959][  0]LocalizationService: Localization service is disabled
+[2017.10.10-00.42.21:535][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2017.10.10-00.42.21:535][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2017.10.10-00.42.21:535][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2017.10.10-00.42.21:743][  0]LogConsoleResponse: Display: 
+[2017.10.10-00.42.22:133][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.10-00.42.22:133][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.10-00.42.22:133][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.10-00.42.22:907][  0]LogFileCache: Scanning file cache for directory 'C:/VFX.Nate.git/trunk/UE4_VFX/Content/' took 0.02s
+[2017.10.10-00.42.23:328][  0]SourceControl: Source control is disabled
+[2017.10.10-00.42.23:328][  0]Cmd: MAP LOAD FILE="../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.10-00.42.23:332][  0]LightingResults: New page: Lighting Build
+[2017.10.10-00.42.23:383][  0]MapCheck: New page: Map Check
+[2017.10.10-00.42.23:383][  0]LightingResults: New page: Lighting Build
+[2017.10.10-00.42.23:936][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.10.10-00.42.23:937][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2017.10.10-00.42.23:937][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2017.10.10-00.42.23:952][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.10.10-00.42.23:952][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2017.10.10-00.42.23:952][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2017.10.10-00.42.23:963][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.10.10-00.42.23:963][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2017.10.10-00.42.23:963][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.10.10-00.42.23:963][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2017.10.10-00.42.23:970][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.10.10-00.42.23:970][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.10.10-00.42.23:970][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2017.10.10-00.42.23:971][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.10.10-00.42.24:195][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.10.10-00.42.24:209][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.10-00.42.24:245][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.10-00.42.24:310][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.071ms to complete.
+[2017.10.10-00.42.24:310][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.982
+[2017.10.10-00.42.24:489][  0]LogCollectionManager: Loaded 0 collections in 0.001482 seconds
+[2017.10.10-00.42.24:579][  0]LogFileCache: Scanning file cache for directory 'C:/VFX.Nate.git/trunk/UE4_VFX/Saved/Collections/' took 0.01s
+[2017.10.10-00.42.24:579][  0]LogFileCache: Scanning file cache for directory 'C:/VFX.Nate.git/trunk/UE4_VFX/Content/Developers/Nate/Collections/' took 0.01s
+[2017.10.10-00.42.24:579][  0]LogFileCache: Scanning file cache for directory 'C:/VFX.Nate.git/trunk/UE4_VFX/Content/Collections/' took 0.01s
+[2017.10.10-00.42.24:579][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.10-00.42.24:590][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2386 classes and 500 folders.
+[2017.10.10-00.42.24:654][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.10-00.42.24:968][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.10-00.42.25:017][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.10.10-00.42.25:045][  0]LogSlate: Took 0.005893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.10-00.42.25:052][  0]LogSlate: Took 0.005348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.10-00.42.25:063][  0]LogSlate: Took 0.004659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.10-00.42.25:215][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.10.10-00.42.25:474][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.10-00.42.25:474][  0]LogLoad: (Engine Initialization) Total time: 48.56 seconds
+[2017.10.10-00.42.25:474][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.10-00.42.25:475][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.10-00.42.25:475][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.10-00.42.25:503][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.10-00.42.25:576][  0]LogSlate: Took 0.003720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.10-00.42.25:605][  1]LogAssetRegistry: Asset discovery search completed in 16.2372 seconds
+[2017.10.10-00.42.25:607][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.10.10-00.42.25:607][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2017.10.10-00.42.35:124][ 86]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.10-00.42.35:231][ 86]LogMaterial: Missing cached shader map for material Dot, compiling. 
+[2017.10.10-00.42.35:353][ 86]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-00.42.35:386][ 86]Cmd: MAP LOAD FILE="../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Maps/VFX_Playground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.10-00.42.35:386][ 86]LightingResults: New page: Lighting Build
+[2017.10.10-00.42.35:387][ 86]LoadErrors: New page: Loading map: VFX_Playground.umap
+[2017.10.10-00.42.35:388][ 86]MapCheck: New page: Map Check
+[2017.10.10-00.42.35:388][ 86]LightingResults: New page: Lighting Build
+[2017.10.10-00.42.35:409][ 86]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.10-00.42.35:478][ 86]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.10-00.42.35:548][ 86]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.663ms to complete.
+[2017.10.10-00.42.35:548][ 86]LogFileHelpers: Loading map 'VFX_Playground' took 0.163
+[2017.10.10-00.42.42:415][785]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-00.42.42:480][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.42.42:480][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-00.42.42:481][785]PIE: New page: PIE session: VFX_Playground (Oct 9, 2017, 12:42:42 PM)
+[2017.10.10-00.42.42:481][785]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VFX_Playground
+[2017.10.10-00.42.42:482][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001500s)
+[2017.10.10-00.42.42:483][785]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-00.42.42:483][785]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2017.10.10-00.42.42:483][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VFX_Playground.VFX_Playground to /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground (0.002479s)
+[2017.10.10-00.42.42:504][785]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-00.42.42:522][785]LogInit: FAudioDevice initialized.
+[2017.10.10-00.42.42:607][785]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.10-00.42.42:611][785]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground up for play (max tick rate 0) at 2017.10.09-18.42.42
+[2017.10.10-00.42.42:612][785]LogWorld: Bringing up level for play took: 0.002182
+[2017.10.10-00.42.42:660][785]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.10.10-00.42.42:663][785]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_VFX_Playground 0.047
+[2017.10.10-00.42.42:663][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.42.42:667][785]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.43:451][873]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.44:490][994]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.44:757][ 25]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.45:532][115]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.45:790][145]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.46:575][237]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.46:833][268]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.47:619][360]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.47:876][390]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.48:662][482]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.48:916][512]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.49:701][604]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.49:956][634]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.50:746][727]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.51:005][758]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.51:785][849]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.52:040][879]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.52:832][971]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.53:081][  0]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.53:872][ 92]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.54:124][122]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.54:911][216]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.55:164][246]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.42.55:576][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.42.55:615][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.45.10:193][515]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.10.10-00.45.10:975][515]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.10-00.45.11:103][515]LogSlate: Took 0.004599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.10-00.45.22:399][239]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.10.10-00.45.22:584][239]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.10.10-00.45.22:896][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.10.10-00.45.23:355][239]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2017.10.10-00.45.25:057][322]LogSlate: Took 0.004439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.10-00.47.47:719][413]BlueprintLog: New page: Compile Cast_Anim_BP
+[2017.10.10-00.47.49:982][507]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-00.47.50:012][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.47.50:012][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-00.47.50:012][507]PIE: New page: PIE session: VFX_Playground (Oct 9, 2017, 12:47:50 PM)
+[2017.10.10-00.47.50:012][507]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VFX_Playground
+[2017.10.10-00.47.50:014][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001616s)
+[2017.10.10-00.47.50:015][507]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-00.47.50:015][507]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2017.10.10-00.47.50:015][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VFX_Playground.VFX_Playground to /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground (0.002997s)
+[2017.10.10-00.47.50:037][507]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-00.47.50:048][507]LogInit: FAudioDevice initialized.
+[2017.10.10-00.47.50:084][507]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.10-00.47.50:087][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground up for play (max tick rate 0) at 2017.10.09-18.47.50
+[2017.10.10-00.47.50:087][507]LogWorld: Bringing up level for play took: 0.001942
+[2017.10.10-00.47.50:089][507]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_VFX_Playground -0.526
+[2017.10.10-00.47.50:090][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.47.50:092][507]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.47.51:015][559]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.47.52:060][620]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.47.52:453][643]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.47.53:102][681]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.47.54:145][742]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.47.55:192][802]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.47.55:871][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.47.55:908][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.01:333][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.01:333][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-00.48.01:333][181]PIE: New page: SIE session: VFX_Playground (Oct 9, 2017, 12:48:01 PM)
+[2017.10.10-00.48.01:333][181]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VFX_Playground
+[2017.10.10-00.48.01:335][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001744s)
+[2017.10.10-00.48.01:336][181]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-00.48.01:336][181]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2017.10.10-00.48.01:337][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VFX_Playground.VFX_Playground to /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground (0.003210s)
+[2017.10.10-00.48.01:367][181]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-00.48.01:378][181]LogInit: FAudioDevice initialized.
+[2017.10.10-00.48.01:416][181]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.10-00.48.01:418][181]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground up for play (max tick rate 0) at 2017.10.09-18.48.01
+[2017.10.10-00.48.01:418][181]LogWorld: Bringing up level for play took: 0.001848
+[2017.10.10-00.48.01:419][181]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.10-00.48.01:419][181]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_VFX_Playground 0.804
+[2017.10.10-00.48.01:435][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.01:435][181]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.02:323][224]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.03:373][278]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.04:404][334]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.05:447][388]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.05:812][404]LogEditorViewport: Clicking on Actor (LMB): Emitter (Cast_flame_FX)
+[2017.10.10-00.48.06:496][429]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.06:776][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.10.10-00.48.07:529][464]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.08:591][509]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.09:620][551]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.09:724][556]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.09:777][556]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.12:398][689]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.10-00.48.29:625][631]LogTemp: Repeating last play command: Simulate
+[2017.10.10-00.48.29:657][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.29:657][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-00.48.29:657][631]PIE: New page: SIE session: VFX_Playground (Oct 9, 2017, 12:48:29 PM)
+[2017.10.10-00.48.29:657][631]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VFX_Playground
+[2017.10.10-00.48.29:659][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001888s)
+[2017.10.10-00.48.29:660][631]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-00.48.29:660][631]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2017.10.10-00.48.29:660][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VFX_Playground.VFX_Playground to /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground (0.003205s)
+[2017.10.10-00.48.29:695][631]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-00.48.29:713][631]LogInit: FAudioDevice initialized.
+[2017.10.10-00.48.29:788][631]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.10-00.48.29:789][631]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground up for play (max tick rate 0) at 2017.10.09-18.48.29
+[2017.10.10-00.48.29:790][631]LogWorld: Bringing up level for play took: 0.001363
+[2017.10.10-00.48.29:790][631]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.10-00.48.29:791][631]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_VFX_Playground -0.824
+[2017.10.10-00.48.29:813][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.29:813][631]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.30:672][673]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.31:711][722]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.32:742][779]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.33:792][831]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.34:291][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.34:346][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.37:532][ 33]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.37:532][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-00.48.37:532][ 33]PIE: New page: PIE session: VFX_Playground (Oct 9, 2017, 12:48:37 PM)
+[2017.10.10-00.48.37:532][ 33]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VFX_Playground
+[2017.10.10-00.48.37:533][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001558s)
+[2017.10.10-00.48.37:534][ 33]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-00.48.37:535][ 33]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2017.10.10-00.48.37:535][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VFX_Playground.VFX_Playground to /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground (0.002918s)
+[2017.10.10-00.48.37:563][ 33]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-00.48.37:573][ 33]LogInit: FAudioDevice initialized.
+[2017.10.10-00.48.37:605][ 33]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.10-00.48.37:607][ 33]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground up for play (max tick rate 0) at 2017.10.09-18.48.37
+[2017.10.10-00.48.37:607][ 33]LogWorld: Bringing up level for play took: 0.001952
+[2017.10.10-00.48.37:610][ 33]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_VFX_Playground 0.995
+[2017.10.10-00.48.37:610][ 33]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.37:612][ 33]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.38:526][ 84]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.39:389][135]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.39:559][145]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.40:600][203]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.41:651][262]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.48.41:973][280]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.48.42:033][280]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.52.37:557][594]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../VFX.Nate.git/trunk/Assets/sphereidle.fbx)
+[2017.10.10-00.52.37:573][594]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.10.10-00.52.37:573][594]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.10.10-00.52.37:573][594]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.10.10-00.52.37:573][594]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.10.10-00.52.37:573][594]LogFbx: ItemName: Material, ItemCount : 1
+[2017.10.10-00.52.37:573][594]LogFbx: ItemName: Model, ItemCount : 1
+[2017.10.10-00.52.37:573][594]LogFbx: ItemName: AnimationCurveNode, ItemCount : 4
+[2017.10.10-00.52.37:573][594]LogFbx: ItemName: AnimationCurve, ItemCount : 10
+[2017.10.10-00.52.37:579][594]LogFbx: Loading FBX Scene from ../../../../../../VFX.Nate.git/trunk/Assets/sphereidle.fbx
+[2017.10.10-00.52.37:590][594]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.10-00.52.49:995][594]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.10-00.52.57:683][594]LogFbx: Loading FBX Scene from ../../../../../../VFX.Nate.git/trunk/Assets/sphereidle.fbx
+[2017.10.10-00.52.57:690][594]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.10-00.52.57:691][594]LogFbx: =================================================
+[2017.10.10-00.52.57:691][594]LogFbx: Dumping Node START [pSphere1] 
+[2017.10.10-00.52.57:691][594]LogFbx: 	Total Deformer Count 791575680.
+[2017.10.10-00.52.57:691][594]LogFbx: 	Attribute () Type (4).
+[2017.10.10-00.52.57:691][594]LogFbx: 		[Node Attribute Child 1] pSphere1 (Type Mesh).
+[2017.10.10-00.52.57:691][594]LogFbx: Dumping Node END [pSphere1]
+[2017.10.10-00.52.57:691][594]LogFbx: =================================================
+[2017.10.10-00.52.57:691][594]LogFbx: Dumping Node START [pSphere1] 
+[2017.10.10-00.52.57:691][594]LogFbx: 	Total Deformer Count 791570976.
+[2017.10.10-00.52.57:691][594]LogFbx: 	Attribute () Type (4).
+[2017.10.10-00.52.57:691][594]LogFbx: 		[Node Attribute Child 1] pSphere1 (Type Mesh).
+[2017.10.10-00.52.57:691][594]LogFbx: Dumping Node END [pSphere1]
+[2017.10.10-00.52.57:696][594]LogLinker: Can't find file '/Game/Animation/cast_animation/lambert1'
+[2017.10.10-00.52.57:696][594]LogLinker: Can't find file '/Game/Animation/cast_animation/lambert1'
+[2017.10.10-00.52.57:704][594]LogFbx: Triangulating skeletal mesh pSphere1
+[2017.10.10-00.52.57:764][594]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.10.10-00.52.57:786][594]LogSkeletalMesh: Section 0: 439 vertices, 1 active bones
+[2017.10.10-00.52.57:786][594]LogSkeletalMesh: Section 0: Material=0, 760 triangles
+[2017.10.10-00.52.57:788][594]LogLinker: Can't find file '/Game/Animation/cast_animation/sphereidle_PhysicsAsset'
+[2017.10.10-00.52.57:789][594]LogLinker: Can't find file '/Game/Animation/cast_animation/sphereidle_PhysicsAsset'
+[2017.10.10-00.52.57:802][594]LogFbx: =================================================
+[2017.10.10-00.52.57:802][594]LogFbx: Dumping Node START [pSphere1] 
+[2017.10.10-00.52.57:802][594]LogFbx: 	Total Deformer Count 791571648.
+[2017.10.10-00.52.57:802][594]LogFbx: 	Attribute () Type (4).
+[2017.10.10-00.52.57:802][594]LogFbx: 		[Node Attribute Child 1] pSphere1 (Type Mesh).
+[2017.10.10-00.52.57:802][594]LogFbx: Dumping Node END [pSphere1]
+[2017.10.10-00.52.57:802][594]LogFbx: =================================================
+[2017.10.10-00.52.57:802][594]LogFbx: Dumping Node START [pSphere1] 
+[2017.10.10-00.52.57:802][594]LogFbx: 	Total Deformer Count 791576072.
+[2017.10.10-00.52.57:802][594]LogFbx: 	Attribute () Type (4).
+[2017.10.10-00.52.57:802][594]LogFbx: 		[Node Attribute Child 1] pSphere1 (Type Mesh).
+[2017.10.10-00.52.57:802][594]LogFbx: Dumping Node END [pSphere1]
+[2017.10.10-00.52.57:802][594]LogFbx: SortedLinks :(0) pSphere1
+[2017.10.10-00.52.57:804][594]LogFbx: Parsing AnimStack Take 001
+[2017.10.10-00.52.57:805][594]LogLinker: Can't find file '/Game/Animation/cast_animation/sphereidle_Anim'
+[2017.10.10-00.52.57:806][594]LogLinker: Can't find file '/Game/Animation/cast_animation/sphereidle_Anim'
+[2017.10.10-00.52.57:810][594]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/cast_animation/sphereidle_Anim.sphereidle_Anim
+[2017.10.10-00.52.57:823][594]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2017.10.10-00.53.26:202][227]BlueprintLog: New page: Compile Cast_Anim_BP
+[2017.10.10-00.53.29:836][381]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-00.53.29:869][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.53.29:869][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-00.53.29:869][381]PIE: New page: PIE session: VFX_Playground (Oct 9, 2017, 12:53:29 PM)
+[2017.10.10-00.53.29:869][381]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VFX_Playground
+[2017.10.10-00.53.29:871][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001595s)
+[2017.10.10-00.53.29:871][381]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-00.53.29:872][381]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2017.10.10-00.53.29:872][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VFX_Playground.VFX_Playground to /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground (0.002639s)
+[2017.10.10-00.53.29:897][381]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-00.53.29:908][381]LogInit: FAudioDevice initialized.
+[2017.10.10-00.53.29:941][381]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.10-00.53.29:942][381]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground up for play (max tick rate 0) at 2017.10.09-18.53.29
+[2017.10.10-00.53.29:943][381]LogWorld: Bringing up level for play took: 0.001521
+[2017.10.10-00.53.29:946][381]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_VFX_Playground -0.67
+[2017.10.10-00.53.29:946][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.53.29:948][381]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.30:873][432]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.31:905][489]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.32:945][547]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.33:939][602]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.33:992][605]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.35:039][662]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.35:278][675]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.36:080][720]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.37:026][774]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.37:114][779]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.38:162][836]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.38:233][840]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.39:209][893]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.39:301][898]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.40:251][951]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.41:282][  9]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.42:328][ 69]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.43:365][127]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.44:406][185]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.44:745][203]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.45:458][243]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.46:042][276]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.46:499][302]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.47:113][336]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.47:538][360]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.48:184][396]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.48:570][418]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.49:298][459]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.49:618][477]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.50:663][536]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.53.50:866][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.53.50:924][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.54.08:907][366]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.10.10-00.54.08:952][366]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.10.10-00.54.09:231][366]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.09:302][366]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.10.10-00.54.09:961][404]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.10:997][468]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.12:034][530]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.13:074][594]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.14:122][653]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.31:217][628]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.32:284][692]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.33:349][756]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.34:420][817]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.35:494][881]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.36:565][941]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.36:874][959]BlueprintLog: New page: Compile Cast_Anim_BP
+[2017.10.10-00.54.38:229][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-00.54.38:263][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.54.38:263][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-00.54.38:263][ 30]PIE: New page: PIE session: VFX_Playground (Oct 9, 2017, 12:54:38 PM)
+[2017.10.10-00.54.38:263][ 30]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VFX_Playground
+[2017.10.10-00.54.38:265][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001859s)
+[2017.10.10-00.54.38:266][ 30]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-00.54.38:266][ 30]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2017.10.10-00.54.38:266][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VFX_Playground.VFX_Playground to /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground (0.003044s)
+[2017.10.10-00.54.38:294][ 30]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-00.54.38:307][ 30]LogInit: FAudioDevice initialized.
+[2017.10.10-00.54.38:342][ 30]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.10-00.54.38:344][ 30]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground up for play (max tick rate 0) at 2017.10.09-18.54.38
+[2017.10.10-00.54.38:345][ 30]LogWorld: Bringing up level for play took: 0.001825
+[2017.10.10-00.54.38:347][ 30]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_VFX_Playground -0.268
+[2017.10.10-00.54.38:348][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.54.38:349][ 30]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.39:267][ 83]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.40:302][143]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.41:350][204]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.41:831][232]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.42:396][265]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.42:912][295]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.43:423][324]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.43:970][356]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.44:470][385]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.45:306][433]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.45:511][445]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.54.46:155][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.54.46:214][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.56.35:809][608]BlueprintLog: New page: Compile Cast_Anim_BP
+[2017.10.10-00.56.38:214][734]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-00.56.38:245][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.56.38:245][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-00.56.38:245][734]PIE: New page: PIE session: VFX_Playground (Oct 9, 2017, 12:56:38 PM)
+[2017.10.10-00.56.38:245][734]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VFX_Playground
+[2017.10.10-00.56.38:246][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001492s)
+[2017.10.10-00.56.38:247][734]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-00.56.38:247][734]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2017.10.10-00.56.38:248][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VFX_Playground.VFX_Playground to /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground (0.002589s)
+[2017.10.10-00.56.38:270][734]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-00.56.38:282][734]LogInit: FAudioDevice initialized.
+[2017.10.10-00.56.38:317][734]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.10-00.56.38:319][734]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground up for play (max tick rate 0) at 2017.10.09-18.56.38
+[2017.10.10-00.56.38:320][734]LogWorld: Bringing up level for play took: 0.001535
+[2017.10.10-00.56.38:322][734]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_VFX_Playground -0.293
+[2017.10.10-00.56.38:322][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.56.38:324][734]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.39:248][786]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.40:008][828]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.40:283][843]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.41:327][900]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.41:421][905]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.42:371][957]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.42:545][966]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.43:413][ 12]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.43:623][ 23]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.44:464][ 68]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.44:947][ 94]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.45:501][124]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.46:025][152]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.46:534][179]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.47:092][209]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.47:579][234]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.48:631][291]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.49:661][346]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.50:703][402]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.56.50:927][414]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.56.50:983][414]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.56.55:601][671]BlueprintLog: New page: Compile Cast_Anim_BP
+[2017.10.10-00.57.44:033][274]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/VFX_Playground' took 0.031
+[2017.10.10-00.57.44:037][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Cast_Anim_BP] ([1] browsable assets)...
+[2017.10.10-00.57.44:063][274]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Cast_Anim_BP.Cast_Anim_BP]
+[2017.10.10-00.57.44:063][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Cast_Anim_BP]
+[2017.10.10-00.57.44:063][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cast_Anim_BP" FILE="../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Blueprints/Cast_Anim_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.10.10-00.57.44:132][274]LogSavePackage: Save=54.56ms
+[2017.10.10-00.57.44:132][274]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Cast_Anim_BP_Auto1036721C24010068F9D66299C1F44C339.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Blueprints/Cast_Anim_BP_Auto1.uasset'
+[2017.10.10-00.57.44:133][274]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Blueprints/Cast_Anim_BP_Auto1.uasset
+[2017.10.10-00.57.44:133][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/cast_animation/sphereidle] ([1] browsable assets)...
+[2017.10.10-00.57.44:147][274]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animation/cast_animation/sphereidle.sphereidle]
+[2017.10.10-00.57.44:147][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/cast_animation/sphereidle]
+[2017.10.10-00.57.44:162][274]LogSavePackage: Save=13.41ms
+[2017.10.10-00.57.44:162][274]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/sphereidle_Auto1CA1B604C4B55468D879872B661FBE9B3.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/sphereidle_Auto1.uasset'
+[2017.10.10-00.57.44:163][274]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/sphereidle_Auto1.uasset
+[2017.10.10-00.57.44:164][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/cast_animation/lambert1] ([1] browsable assets)...
+[2017.10.10-00.57.44:184][274]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Animation/cast_animation/lambert1.lambert1]
+[2017.10.10-00.57.44:184][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/cast_animation/lambert1]
+[2017.10.10-00.57.44:204][274]LogSavePackage: Save=17.86ms
+[2017.10.10-00.57.44:204][274]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/lambert1_Auto1818964BD4EB097DE3C28148D01E01E6A.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/lambert1_Auto1.uasset'
+[2017.10.10-00.57.44:206][274]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/lambert1_Auto1.uasset
+[2017.10.10-00.57.44:206][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/cast_animation/sphereidle_PhysicsAsset] ([1] browsable assets)...
+[2017.10.10-00.57.44:206][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/cast_animation/sphereidle_PhysicsAsset]
+[2017.10.10-00.57.44:214][274]LogSavePackage: Save=6.13ms
+[2017.10.10-00.57.44:215][274]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/sphereidle_PhysicsAsset_Auto1013574F64FC684A60A2920A90B284881.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/sphereidle_PhysicsAsset_Auto1.uasset'
+[2017.10.10-00.57.44:216][274]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/sphereidle_PhysicsAsset_Auto1.uasset
+[2017.10.10-00.57.44:216][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/cast_animation/sphereidle_Anim] ([1] browsable assets)...
+[2017.10.10-00.57.44:230][274]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animation/cast_animation/sphereidle_Anim.sphereidle_Anim]
+[2017.10.10-00.57.44:230][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/cast_animation/sphereidle_Anim]
+[2017.10.10-00.57.44:250][274]LogSavePackage: Save=17.87ms
+[2017.10.10-00.57.44:250][274]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/sphereidle_Anim_Auto12077279F4E009AAF66A95E85A798A181.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/sphereidle_Anim_Auto1.uasset'
+[2017.10.10-00.57.44:251][274]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/sphereidle_Anim_Auto1.uasset
+[2017.10.10-00.57.44:251][274]LogFileHelpers: Auto-saving content packages took 0.216
+[2017.10.10-00.57.59:087][798]LogEditorFactories: Performing atomic reimport of [C:/VFX.Nate.git/trunk/Assets/sphereidle.fbx]
+[2017.10.10-00.57.59:109][798]LogFbx: Loading FBX Scene from C:/VFX.Nate.git/trunk/Assets/sphereidle.fbx
+[2017.10.10-00.57.59:116][798]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.10-00.57.59:116][798]LogFbx: =================================================
+[2017.10.10-00.57.59:116][798]LogFbx: Dumping Node START [pSphere1] 
+[2017.10.10-00.57.59:116][798]LogFbx: 	Total Deformer Count 1017314208.
+[2017.10.10-00.57.59:116][798]LogFbx: 	Attribute () Type (4).
+[2017.10.10-00.57.59:116][798]LogFbx: 		[Node Attribute Child 1] pSphere1 (Type Mesh).
+[2017.10.10-00.57.59:116][798]LogFbx: Dumping Node END [pSphere1]
+[2017.10.10-00.57.59:116][798]LogFbx: =================================================
+[2017.10.10-00.57.59:117][798]LogFbx: Dumping Node START [pSphere1] 
+[2017.10.10-00.57.59:117][798]LogFbx: 	Total Deformer Count 1017309784.
+[2017.10.10-00.57.59:117][798]LogFbx: 	Attribute () Type (4).
+[2017.10.10-00.57.59:117][798]LogFbx: 		[Node Attribute Child 1] pSphere1 (Type Mesh).
+[2017.10.10-00.57.59:117][798]LogFbx: Dumping Node END [pSphere1]
+[2017.10.10-00.57.59:117][798]LogFbx: Triangulating skeletal mesh pSphere1
+[2017.10.10-00.57.59:166][798]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.10.10-00.57.59:211][798]LogSkeletalMesh: Section 0: 439 vertices, 1 active bones
+[2017.10.10-00.57.59:214][798]LogSkeletalMesh: Section 0: Material=0, 760 triangles
+[2017.10.10-00.57.59:215][798]LogEditorFactories: -- imported successfully
+[2017.10.10-00.57.59:218][798]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2017.10.10-00.58.03:381][ 21]LogEditorFactories: Performing atomic reimport of [C:/VFX.Nate.git/trunk/Assets/sphereidle.fbx]
+[2017.10.10-00.58.03:401][ 21]LogFbx: Loading FBX Scene from C:/VFX.Nate.git/trunk/Assets/sphereidle.fbx
+[2017.10.10-00.58.03:408][ 21]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.10-00.58.03:408][ 21]LogFbx: =================================================
+[2017.10.10-00.58.03:408][ 21]LogFbx: Dumping Node START [pSphere1] 
+[2017.10.10-00.58.03:408][ 21]LogFbx: 	Total Deformer Count 1017301104.
+[2017.10.10-00.58.03:408][ 21]LogFbx: 	Attribute () Type (4).
+[2017.10.10-00.58.03:408][ 21]LogFbx: 		[Node Attribute Child 1] pSphere1 (Type Mesh).
+[2017.10.10-00.58.03:408][ 21]LogFbx: Dumping Node END [pSphere1]
+[2017.10.10-00.58.03:408][ 21]LogFbx: =================================================
+[2017.10.10-00.58.03:408][ 21]LogFbx: Dumping Node START [pSphere1] 
+[2017.10.10-00.58.03:408][ 21]LogFbx: 	Total Deformer Count 1017300152.
+[2017.10.10-00.58.03:408][ 21]LogFbx: 	Attribute () Type (4).
+[2017.10.10-00.58.03:408][ 21]LogFbx: 		[Node Attribute Child 1] pSphere1 (Type Mesh).
+[2017.10.10-00.58.03:408][ 21]LogFbx: Dumping Node END [pSphere1]
+[2017.10.10-00.58.03:409][ 21]LogFbx: Parsing AnimStack Take 001
+[2017.10.10-00.58.03:413][ 21]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/cast_animation/sphereidle_Anim.sphereidle_Anim
+[2017.10.10-00.58.03:421][ 21]LogEditorFactories: -- imported successfully
+[2017.10.10-00.58.14:192][596]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-00.58.14:224][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.58.14:224][596]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.10-00.58.14:230][596]LogPlayLevel: [PlayLevel] Compiling Cast_Anim_BP before play...
+[2017.10.10-00.58.14:353][596]LogPlayLevel: PlayLevel: Blueprint regeneration took 128 ms (1 blueprints)
+[2017.10.10-00.58.14:353][596]PIE: New page: PIE session: VFX_Playground (Oct 9, 2017, 12:58:14 PM)
+[2017.10.10-00.58.14:353][596]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VFX_Playground
+[2017.10.10-00.58.14:355][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001789s)
+[2017.10.10-00.58.14:356][596]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-00.58.14:356][596]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2017.10.10-00.58.14:356][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VFX_Playground.VFX_Playground to /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground (0.002843s)
+[2017.10.10-00.58.14:384][596]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-00.58.14:394][596]LogInit: FAudioDevice initialized.
+[2017.10.10-00.58.14:429][596]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.10-00.58.14:431][596]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground up for play (max tick rate 0) at 2017.10.09-18.58.14
+[2017.10.10-00.58.14:431][596]LogWorld: Bringing up level for play took: 0.001681
+[2017.10.10-00.58.14:434][596]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_VFX_Playground -0.181
+[2017.10.10-00.58.14:434][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.58.14:436][596]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.15:228][639]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.16:267][695]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.17:316][753]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.17:332][754]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.18:356][810]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.19:402][868]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.19:558][877]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.20:429][926]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.21:484][986]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.21:678][997]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.22:524][ 45]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.23:493][ 99]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.23:563][103]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.24:594][161]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.25:168][193]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.25:649][219]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.26:687][275]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.27:007][292]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.27:721][331]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.28:773][388]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.28:980][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.58.29:036][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-00.58.32:437][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cast_Anim_BP" FILE="../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Blueprints/Cast_Anim_BP.uasset" SILENT=true
+[2017.10.10-00.58.32:500][554]LogSavePackage: Save=56.93ms
+[2017.10.10-00.58.32:500][554]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Cast_Anim_BP74A418A44DDF2445B0E66985286A7548.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Blueprints/Cast_Anim_BP.uasset'
+[2017.10.10-00.58.32:508][554]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Blueprints/Cast_Anim_BP.uasset
+[2017.10.10-00.58.45:550][296]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.46:587][354]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.47:639][413]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.48:682][467]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.49:562][514]LogSavePackage: Save=14.55ms
+[2017.10.10-00.58.49:562][514]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/sphere_rotation_Anim2A87F8F7481472910533158DBA7519C7.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphere_rotation_Anim.uasset'
+[2017.10.10-00.58.49:563][514]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphere_rotation_Anim.uasset
+[2017.10.10-00.58.49:712][522]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.50:759][581]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.51:210][606]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.51:797][638]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.52:846][702]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.53:885][762]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.54:933][822]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.55:744][869]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.55:761][870]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.55:780][871]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.55:966][883]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.57:002][945]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.58.58:059][  7]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.31:846][ 25]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.32:048][ 36]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.32:249][ 47]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.32:270][ 48]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.32:957][ 84]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.33:305][103]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.33:923][139]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.34:966][202]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.36:013][268]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.37:047][334]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.38:098][398]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.39:141][461]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.40:182][519]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.40:669][547]LogSavePackage: Save=6.20ms
+[2017.10.10-00.59.40:669][547]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/sphere_rotation_AnimCB939BC84EFBFC4022BB0CAC4CEB9453.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphere_rotation_Anim.uasset'
+[2017.10.10-00.59.40:670][547]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphere_rotation_Anim.uasset
+[2017.10.10-00.59.41:226][581]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.42:713][624]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-00.59.43:887][679]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.10-01.07.59:255][679]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/VFX_Playground' took 0.024
+[2017.10.10-01.07.59:256][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/cast_animation/sphereidle] ([1] browsable assets)...
+[2017.10.10-01.07.59:278][679]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animation/cast_animation/sphereidle.sphereidle]
+[2017.10.10-01.07.59:278][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/cast_animation/sphereidle]
+[2017.10.10-01.07.59:297][679]LogSavePackage: Save=15.17ms
+[2017.10.10-01.07.59:297][679]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/sphereidle_Auto2DB955E444A35E03D53AF3FAD8F6D1D54.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/sphereidle_Auto2.uasset'
+[2017.10.10-01.07.59:298][679]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/sphereidle_Auto2.uasset
+[2017.10.10-01.07.59:298][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/cast_animation/sphereidle_Anim] ([1] browsable assets)...
+[2017.10.10-01.07.59:311][679]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animation/cast_animation/sphereidle_Anim.sphereidle_Anim]
+[2017.10.10-01.07.59:312][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/cast_animation/sphereidle_Anim]
+[2017.10.10-01.07.59:328][679]LogSavePackage: Save=14.26ms
+[2017.10.10-01.07.59:328][679]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/sphereidle_Anim_Auto24EE6C3D84DE3BFA5B1686496DBD7BB14.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/sphereidle_Anim_Auto2.uasset'
+[2017.10.10-01.07.59:329][679]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/Autosaves/Game/Animation/cast_animation/sphereidle_Anim_Auto2.uasset
+[2017.10.10-01.07.59:329][679]LogFileHelpers: Auto-saving content packages took 0.074
+[2017.10.10-15.34.25:605][947]LogHttp: Warning: 00000233FF0F2680: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.10.10-15.34.25:605][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 0 (Connection 339 seems to be dead!)
+[2017.10.10-15.34.25:605][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 1 (Closing connection 339)
+[2017.10.10-15.34.25:605][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 2 (  Trying 34.229.8.133...)
+[2017.10.10-15.34.25:605][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 3 (connect to 34.229.8.133 port 443 failed: Bad access)
+[2017.10.10-15.34.25:605][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 4 (  Trying 52.20.102.53...)
+[2017.10.10-15.34.25:605][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 5 (connect to 52.20.102.53 port 443 failed: Bad access)
+[2017.10.10-15.34.25:605][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 6 (  Trying 34.231.11.75...)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 7 (connect to 34.231.11.75 port 443 failed: Bad access)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 8 (  Trying 34.230.152.110...)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 9 (connect to 34.230.152.110 port 443 failed: Bad access)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 10 (  Trying 52.20.191.231...)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 11 (connect to 52.20.191.231 port 443 failed: Bad access)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 12 (  Trying 52.204.12.192...)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 13 (connect to 52.204.12.192 port 443 failed: Bad access)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 14 (  Trying 34.232.38.59...)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 15 (connect to 34.232.38.59 port 443 failed: Bad access)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 16 (  Trying 34.235.46.42...)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 17 (connect to 34.235.46.42 port 443 failed: Bad access)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 18 (Failed to connect to datarouter.ol.epicgames.com port 443: Bad access)
+[2017.10.10-15.34.25:606][947]LogHttp: Warning: 00000233FF0F2680: libcurl info message cache 19 (Closing connection 340)
+[2017.10.10-16.32.45:081][956]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.10-16.32.45:114][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-16.32.45:114][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.10-16.32.45:114][956]PIE: New page: PIE session: VFX_Playground (Oct 10, 2017, 4:32:45 AM)
+[2017.10.10-16.32.45:114][956]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VFX_Playground
+[2017.10.10-16.32.45:118][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003286s)
+[2017.10.10-16.32.45:119][956]LogAIModule: Creating AISystem for world VFX_Playground
+[2017.10.10-16.32.45:120][956]LogPlayLevel: PIE: World Init took: (0.002006s)
+[2017.10.10-16.32.45:120][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VFX_Playground.VFX_Playground to /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground (0.005677s)
+[2017.10.10-16.32.45:145][956]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.10-16.32.45:160][956]LogInit: FAudioDevice initialized.
+[2017.10.10-16.32.45:195][956]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.10-16.32.45:198][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VFX_Playground.VFX_Playground up for play (max tick rate 0) at 2017.10.10-10.32.45
+[2017.10.10-16.32.45:199][956]LogWorld: Bringing up level for play took: 0.002773
+[2017.10.10-16.32.45:202][956]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_VFX_Playground 0.589
+[2017.10.10-16.32.45:203][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-16.32.45:205][956]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.46:114][ 59]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.47:152][178]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.48:193][297]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.49:236][415]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.50:283][535]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.51:324][654]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.52:360][772]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.53:404][893]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.54:447][ 15]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.55:488][138]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.56:530][261]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.57:576][385]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.58:613][506]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.32.59:654][626]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.00:694][745]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.01:736][864]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.02:784][984]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.03:819][102]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.04:861][220]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.05:902][339]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.06:950][458]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.07:991][578]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.09:033][698]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.10:075][818]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.11:112][937]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.12:152][ 57]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.13:200][177]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.14:243][300]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.15:279][422]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.16:320][543]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.17:364][664]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.17:846][721]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.18:403][786]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.19:445][908]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.20:491][ 27]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.21:527][145]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.21:636][158]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.22:575][263]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.23:611][380]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.23:648][384]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.24:659][498]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.25:078][545]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.25:700][615]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.26:469][701]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.26:739][731]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.27:782][848]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.27:984][872]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.28:823][969]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.29:345][ 28]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.29:868][ 87]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.30:907][203]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.31:946][320]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.32:985][437]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.34:029][553]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.35:070][673]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.36:111][793]LogParticles: Warning: Particle Notify: Anim 'sphere_rotation_Anim' tried to spawn infinitely looping particle system 'Cast_flame_FX'. Spawning suppressed.
+[2017.10.10-16.33.36:289][813]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-16.33.36:347][813]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground' with GeneratedClass '/Game/Maps/VFX_Playground.VFX_Playground_C' with ClassGeneratedBy '/Game/Maps/VFX_Playground.VFX_Playground:PersistentLevel.VFX_Playground'
+[2017.10.10-16.33.46:998][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/cast_animation/lambert1" FILE="../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/lambert1.uasset" SILENT=true
+[2017.10.10-16.33.47:018][945]LogSavePackage: Save=15.02ms
+[2017.10.10-16.33.47:019][945]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/lambert17028C5DB4C616F1976FDFA9F61EC8737.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/lambert1.uasset'
+[2017.10.10-16.33.47:026][945]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/lambert1.uasset
+[2017.10.10-16.33.47:048][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/cast_animation/sphereidle" FILE="../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphereidle.uasset" SILENT=true
+[2017.10.10-16.33.47:063][945]LogSavePackage: Save=13.57ms
+[2017.10.10-16.33.47:063][945]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/sphereidleE009C4EE4A17DD2581AECF83D46DA8FF.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphereidle.uasset'
+[2017.10.10-16.33.47:072][945]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphereidle.uasset
+[2017.10.10-16.33.47:092][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/cast_animation/sphereidle_Anim" FILE="../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphereidle_Anim.uasset" SILENT=true
+[2017.10.10-16.33.47:111][945]LogSavePackage: Save=16.86ms
+[2017.10.10-16.33.47:111][945]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/sphereidle_AnimE25D776B48C6DD67E25B2CA5353E1431.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphereidle_Anim.uasset'
+[2017.10.10-16.33.47:116][945]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphereidle_Anim.uasset
+[2017.10.10-16.33.47:128][945]LogSavePackage: Save=5.09ms
+[2017.10.10-16.33.47:128][945]LogSavePackage: Moving '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Saved/sphereidle_PhysicsAssetEDCB634C477BC26B1E6BC1917913608A.tmp' to '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphereidle_PhysicsAsset.uasset'
+[2017.10.10-16.33.47:134][945]LogSavePackage: Display: Finished SavePackage ../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/Animation/cast_animation/sphereidle_PhysicsAsset.uasset
+[2017.10.10-16.33.47:461][946]Cmd: QUIT_EDITOR
+[2017.10.10-16.33.47:579][946]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.10-16.33.47:595][946]LogExit: Preparing to exit.
+[2017.10.10-16.33.48:719][946]LogDirectoryWatcher: A directory notification for 'C:/VFX.Nate.git/trunk/UE4_VFX/Content/' was aborted.
+[2017.10.10-16.33.48:755][946]LogExit: Editor shut down
+[2017.10.10-16.33.48:765][946]LogExit: Transaction tracking system shut down
+[2017.10.10-16.33.48:829][946]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.10-16.33.48:830][946]LogDirectoryWatcher: A directory notification for '../../../../../../VFX.Nate.git/trunk/UE4_VFX/Content/' was aborted.
+[2017.10.10-16.33.48:830][946]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.10-16.33.48:830][946]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.10-16.33.48:830][946]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.10-16.33.48:923][946]LogExit: Object subsystem successfully closed.
+[2017.10.10-16.33.48:954][946]LogD3D11RHI: Shutdown
+[2017.10.10-16.33.48:954][946]LogD3D11RHI: CleanupD3DDevice
+[2017.10.10-16.33.49:080][946]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.10-16.33.49:099][946]LogModuleManager: Shutting down and abandoning module AnimationEditor (544)
+[2017.10.10-16.33.49:099][946]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (542)
+[2017.10.10-16.33.49:099][946]LogModuleManager: Shutting down and abandoning module SkeletonEditor (540)
+[2017.10.10-16.33.49:100][946]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (538)
+[2017.10.10-16.33.49:100][946]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2017.10.10-16.33.49:100][946]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2017.10.10-16.33.49:101][946]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.10.10-16.33.49:101][946]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.10.10-16.33.49:101][946]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.10.10-16.33.49:101][946]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.10.10-16.33.49:101][946]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.10.10-16.33.49:103][946]LogDirectoryWatcher: A directory notification for 'C:/VFX.Nate.git/trunk/UE4_VFX/Content/Collections/' was aborted.
+[2017.10.10-16.33.49:103][946]LogDirectoryWatcher: A directory notification for 'C:/VFX.Nate.git/trunk/UE4_VFX/Content/Developers/Nate/Collections/' was aborted.
+[2017.10.10-16.33.49:103][946]LogDirectoryWatcher: A directory notification for 'C:/VFX.Nate.git/trunk/UE4_VFX/Saved/Collections/' was aborted.
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.10.10-16.33.49:103][946]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.10.10-16.33.49:104][946]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.10.10-16.33.49:155][946]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.10.10-16.33.49:155][946]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.10.10-16.33.49:155][946]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.10.10-16.33.49:155][946]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.10.10-16.33.49:155][946]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.10.10-16.33.49:155][946]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.10.10-16.33.49:155][946]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.10.10-16.33.49:155][946]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.10.10-16.33.49:155][946]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.10.10-16.33.49:156][946]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.10.10-16.33.49:209][946]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.10.10-16.33.49:209][946]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.10.10-16.33.49:209][946]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.10.10-16.33.49:209][946]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.10.10-16.33.49:209][946]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.10.10-16.33.49:209][946]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.10.10-16.33.49:210][946]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.10.10-16.33.49:210][946]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.10.10-16.33.49:210][946]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.10.10-16.33.49:210][946]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.10.10-16.33.49:218][946]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.10.10-16.33.49:220][946]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.10.10-16.33.49:221][946]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.10.10-16.33.49:221][946]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.10.10-16.33.49:221][946]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.10.10-16.33.49:428][946]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.10.10-16.33.49:429][946]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.10.10-16.33.49:429][946]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.10.10-16.33.49:429][946]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.10.10-16.33.49:429][946]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.10.10-16.33.49:429][946]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.10.10-16.33.49:430][946]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.10.10-16.33.49:430][946]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.10.10-16.33.49:430][946]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.10.10-16.33.49:430][946]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.10.10-16.33.49:430][946]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.10.10-16.33.49:430][946]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.10.10-16.33.49:430][946]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.10.10-16.33.49:430][946]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.10.10-16.33.49:530][946]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.10.10-16.33.49:631][946]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.10.10-16.33.49:634][946]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.10.10-16.33.49:644][946]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.10.10-16.33.49:651][946]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.10.10-16.33.49:657][946]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.10.10-16.33.49:667][946]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.10.10-16.33.49:708][946]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.10.10-16.33.49:710][946]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.10.10-16.33.49:710][946]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.10.10-16.33.49:711][946]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.10.10-16.33.49:716][946]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.10.10-16.33.49:717][946]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.10.10-16.33.49:717][946]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.10.10-16.33.49:718][946]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.10.10-16.33.49:719][946]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.10.10-16.33.49:720][946]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.10.10-16.33.49:720][946]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.10.10-16.33.49:722][946]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.10.10-16.33.49:723][946]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.10.10-16.33.49:725][946]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.10.10-16.33.49:725][946]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.10.10-16.33.49:726][946]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.10.10-16.33.49:726][946]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.10.10-16.33.49:728][946]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.10.10-16.33.49:729][946]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.10.10-16.33.49:732][946]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.10.10-16.33.49:735][946]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.10.10-16.33.49:737][946]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.10.10-16.33.49:738][946]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.10.10-16.33.49:741][946]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.10.10-16.33.49:768][946]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.10.10-16.33.49:769][946]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.10.10-16.33.49:772][946]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.10.10-16.33.49:856][946]LogDerivedDataCache: Shutdown
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.10.10-16.33.49:856][946]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.10-16.33.49:857][946]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.10-16.33.49:857][946]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.10-16.33.49:857][946]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.10-16.33.49:857][946]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0C3AC8DC-4E54-25D2-4329-13A6C0410CF9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=f4bcde964437f7527d9f4ba52048465a%7Cbff5a96170ba471b8efaf63d33225a22%7C876a6fe5-5800-4dbe-88f4-82a60b6371f8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.10-16.33.49:883][946]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.10-16.33.49:884][946]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.10-16.33.49:885][946]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.10-16.33.49:885][946]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.10-16.33.49:885][946]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.10-16.33.49:885][946]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.10-16.33.49:885][946]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.10-16.33.49:885][946]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.10-16.33.49:886][946]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.10-16.33.49:886][946]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.10-16.33.49:887][946]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.10-16.33.49:887][946]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.10-16.33.49:887][946]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.10-16.33.49:887][946]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.10-16.33.49:887][946]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.10-16.33.49:887][946]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.10-16.33.49:887][946]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.10-16.33.49:887][946]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.10-16.33.49:887][946]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.10-16.33.49:891][946]LogExit: Exiting.
+[2017.10.10-16.33.49:916][946]Log file closed, 10/10/17 10:33:49
